@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/ozipoetra/Nat-VPS-Installer/main/install-nat.sh && chmod +x install-nat.sh && ./install-nat.sh
